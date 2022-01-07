@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 04926453-2a3f-f348-fbfa-2399ff7c1348
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: external-f10a597f6a1d47279c998be38542c082
+  name: Online Publication
+  url: http://introtodeeplearning.com/2020/index.html
+  weight: 1000
